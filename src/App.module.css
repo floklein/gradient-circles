@@ -1,0 +1,15 @@
+.section {
+  height: 100%;
+  min-height: 90vh;
+  overflow: hidden;
+}
+
+.sectionContent {
+  margin-inline: auto;
+  padding-inline: 4rem;
+  max-width: 1000px;
+}
+
+.sectionSecondary {
+  background-color: #070707;
+}
